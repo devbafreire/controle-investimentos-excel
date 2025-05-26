@@ -40,3 +40,6 @@ A proposta do desafio é criar uma ferramenta prática em Excel que simule inves
 ## ✨ Aprendizados
 
 A construção desta ferramenta foi uma excelente forma de aplicar os conhecimentos adquiridos no curso. Aprendi a estruturar uma planilha complexa, automatizar cálculos e apresentar resultados de forma clara e visual.Também aproveitei para aprender a usar o GitHub como plataforma de documentação e portfólio.
+
+
+“A planilha foi construída com base nos aprendizados do curso da DIO, com personalizações próprias feitas por mim.”
